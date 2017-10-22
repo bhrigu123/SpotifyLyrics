@@ -10,6 +10,7 @@ View lyrics of current playing song on Spotify.
   <img src = "http://i.imgur.com/6FdKtTu.png" width="50%" />
 
 </p>
+
 ### Usage:
 
 Click SpotifyLyrics on the Menubar.
