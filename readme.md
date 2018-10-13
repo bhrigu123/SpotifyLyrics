@@ -1,18 +1,19 @@
 # Spotify Lyrics 
 
+> Supports only OSX
 
-View lyrics of current playing song on Spotify.
+View lyrics of currently playing song on Spotify.
 
 
 <img src = "http://i.imgur.com/KqRFlcg.png" />
 
 <p align="center">
   <img src = "http://i.imgur.com/6FdKtTu.png" width="50%" />
-
 </p>
+
 ### Usage:
 
-Click SpotifyLyrics on the Menubar.
+Click SpotifyLyrics on the menubar.
 
 Menu bar appears at the top of the screen and looks like this:
 
@@ -43,7 +44,6 @@ alt="Demo" width="240" height="180" border="10" /></a>
  `$ pip install spotifylyrics`
 
 
-> Supports only OSX
 
 
 
